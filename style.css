@@ -1,0 +1,19 @@
+.container{
+    width: 200px;
+    height: 200px;
+}
+.azer{
+    background-color: rgb(207, 201, 196);
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    align-items: center;
+
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.red{
+    color:red;
+}
